@@ -13,7 +13,7 @@ Fiuscha="\033[0;35m"
 blue="\033[1;34m"
 nc="\e[0m"
 
-       echo -e "$red by samsesh.$nc"
+       echo -e "$red by bartanonymus $nc"
 
 #Installation
 sleep 1
